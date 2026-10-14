@@ -169,10 +169,6 @@ If a user is in immediate danger, contact emergency services right away.
 
 ---
 
-## License
-
-This project does not currently include a license file. If you plan to publish or distribute it publicly, add a license before sharing.
-
 ---
 
 ## Summary
